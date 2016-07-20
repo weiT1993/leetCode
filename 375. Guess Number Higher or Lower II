@@ -1,3 +1,5 @@
+```
+
 public class Solution {
     public int getMoneyAmount(int n) {
         HashMap<Integer[],Integer> rangeMoney = new HashMap<Integer[],Integer>();
@@ -63,3 +65,5 @@ public class Solution {
 		return minMoney;
 	}
 }
+
+```
